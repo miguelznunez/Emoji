@@ -1,0 +1,23 @@
+body{
+  font-family: "Acme";
+  font-size: 30px;
+}
+#box{
+  background-color:lightblue;
+  color:white;
+  padding: 8%;
+  width: 51%;
+  text-align: center;
+  margin: auto;
+  margin-top: 10%;
+  box-shadow: 10px 10px 27px 0px rgba(0,0,0,0.75);
+}
+
+#o-face{
+  font-size: 38px;
+}
+
+#emoji{
+  font-size: 49px;
+}
+
